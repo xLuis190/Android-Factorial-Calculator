@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Factorial Calculator</string>
+    <string name="input_number">Enter the number you want to calculate</string>
+    <string name="calculate">Calculate!</string>
+    <string name="hintString">Input the number</string>
+    <string name="factorialTextView">The factorial is</string>
+</resources>
